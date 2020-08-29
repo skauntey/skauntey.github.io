@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm a systems thinker, innovator and highly passionate about shaping breakthrough ideas to commercial reality..
 
-email: agus[at]python.web.id
+email: skauntey[at]gmail.com
